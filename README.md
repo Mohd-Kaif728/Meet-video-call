@@ -96,3 +96,4 @@ This project is for educational purposes as a college project.
 ---
 ⭐ If you found this project helpful, give it a star on GitHub!
 ' > README.md
+.
